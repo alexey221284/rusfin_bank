@@ -1,0 +1,14 @@
+.main {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.menuIcon {
+  width: 8px;
+}
+
+.rsLogo {
+  width: 60px;
+  padding-left: 5px;
+}
