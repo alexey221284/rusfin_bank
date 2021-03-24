@@ -6,7 +6,7 @@ import "./App.css"
 import menuIcon from "./img/menu_icon.png";
 import rsLogo from "./img/rs_logo.png";
 
-export default function Toolbar() {
+export default function ToolbarMy() {
 	const [anchorElPhones, setAnchorElPhones] = React.useState(null);
 	const [anchorElIpPlanning, setAnchorElIpPlanning] = React.useState(null);
 	const [anchorElPhonesReports, setAnchorElPhonesReports] = React.useState(null);
